@@ -13,7 +13,7 @@ And here's ![another example image](<img url>), run on 3 images of
 a parking garage!  
 
   
-Here's how it works:
+## Here's how it works:
 - I take 3 pictures that I want to stitch together.
 - Run the program using those image filenames.
 - The images need to be combined correctly, so keypoints are found using the 
