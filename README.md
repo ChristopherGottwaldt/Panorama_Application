@@ -7,6 +7,8 @@ Here's a wintry lake panorama where the program was run on 3 images of a winter 
  
   
 And here's a mountain scene panorama, run on 3 images of a mountain scene! ![mountain](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/mountain_panorama.png)
+
+Here's a picture of my roommates: ![roommates](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/roommates.png)
   
 And here's a parking garage panorama, run on 3 images of a parking garage! ![parking garage panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/garagepano.png)
 
