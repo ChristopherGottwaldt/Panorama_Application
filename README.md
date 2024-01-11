@@ -3,14 +3,12 @@
 This is a project that can create panoramic pictures! I made this using 
 information from my CS 639: Intro to Computer Vision class's lectures.  
 
-Here's a ![wintry lake panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/wintrylake.png) where the program
-was run on 3 images of a winter lake in Northern Minnesota!  
+Here's a wintry lake panorama where the program was run on 3 images of a winter lake in Northern Minnesota! ![winter lake](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/wintrylake.png) 
+ 
   
-And here's a ![mountain scene panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/mountain_panorama.png), run on 3 images of
-a mountain scene!  
+And here's a mountain scene panorama, run on 3 images of a mountain scene! ![mountain](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/mountain_panorama.png)
   
-And here's a ![parking garage panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/garagepano.png), run on 3 images of
-a parking garage!  
+And here's a parking garage panorama, run on 3 images of a parking garage! ![parking garage panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/garagepano.png)
 
 A Minneapolis panorama: ![Minneapolis panorama](https://github.com/ChristopherGottwaldt/Panorama_Application/blob/main/mpls_pano.jpg)  
 
