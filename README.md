@@ -28,6 +28,6 @@ edge wider, and the inside edge narrower to give an illusion of a curved sides.
 - And *ouila,* it's a panorama!  
 
 ## Future Improvements:
- I would like to make the panoramas work for portrait (vertical) pictures, because if you don't take horizontal photos the resulting panorama just doensn't come out right.  
+ I would like to make the panoramas work for portrait (vertical) pictures, because if you don't take horizontal photos the resulting panorama just doesn't come out right.  
  Currently if one of the sides deviates more from the center than the other, then that side will be made larger.  
  You can see this happening on the above images, usually to the right side of them.
